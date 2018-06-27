@@ -46,5 +46,5 @@ public class MaxGonzales {
          else{
               System.out.println("You typed something invalid.");
          }     
-    
+         //This is a comment
 }
